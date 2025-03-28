@@ -87,4 +87,5 @@ input:focus, textarea:focus {
 textarea { 
     height: 120px; 
     resize: none;
+    font-family: 'Poppins', sans-serif; 
 }
