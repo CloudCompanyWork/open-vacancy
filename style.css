@@ -63,7 +63,7 @@ p {
     font-weight: 600; 
     transition: background 0.3s ease, transform 0.2s;
 }
-.btn:hover { 
+.form-btn:hover { 
     background: #414141; 
     cursor: pointer;
 }
