@@ -85,7 +85,6 @@ input:focus, textarea:focus {
     outline: 2px solid grey; 
 }
 textarea { 
-    resize: vertical; 
     height: 120px; 
     resize: none;
 }
